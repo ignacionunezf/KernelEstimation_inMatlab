@@ -1,4 +1,5 @@
-%Assignment #1, Q1 Adv. Econometrics, by Ignacio Nunez, Feb 27 2020
+%Codes to estimate CDF using the empirical estimator, and the normal kernel estimator
+%Ignacio Nunez, Economics Department, UT-Austin, Feb 27 2020
 
 clear all; close all;
 
@@ -6,7 +7,7 @@ clear all; close all;
 sample_size=100;
 S = randn(sample_size,1);
 
-% Plot CDF 
+% Plot Normal CDF Kernel
 mu = 0;
 sigma = 1;
 pd = makedist('Normal','mu',mu,'sigma',sigma);
