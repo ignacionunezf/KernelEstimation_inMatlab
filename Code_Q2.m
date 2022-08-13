@@ -1,4 +1,5 @@
-%Assignment #2, Q2 Adv. Econometrics, by Ignacio Nunez, Feb 28 2020
+%Codes to estimate conditional mean with a normal kernel and cross-validation
+%Ignacio Nunez, Economics Department, UT-Austin, Feb 27 2020
 
 clear all;  close all;
 
