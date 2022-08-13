@@ -1,5 +1,5 @@
-%Assignment #1, Q3, Cross Validations
-%Adv. Econometrics, by Ignacio Nunez, Feb 28 2020
+%Codes to estimate PDF with normal kernel and cross validation
+%Ignacio Nunez, Economics Department, UT-Austin, Feb 27 2020
 
 clear all;  close all;
 
