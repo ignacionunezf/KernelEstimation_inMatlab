@@ -1,4 +1,5 @@
-%Assignment #1, Q3 Adv. Econometrics, by Ignacio Nunez, Feb 28 2020
+%Codes to estimate PDF using kernel estimation
+%Ignacio Nunez, Economics Department, UT-Austin, Feb 27 2020
 
 clear all;  close all;
 
